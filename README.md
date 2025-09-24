@@ -1,0 +1,1 @@
+Quick notes on the 100-page ML book
